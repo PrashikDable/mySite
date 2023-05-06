@@ -1,0 +1,28 @@
+ body {
+     background-image: url(background2.png);
+ }
+
+ div {
+     background-color: rgb(212, 226, 239);
+     border-style: groove;
+     border-color: aliceblue;
+     border-width: 7;
+     width: 25%;
+     height: 25%;
+     margin-left: 38%;
+     margin-right: 30%;
+     margin-top: 10%;
+     margin-bottom: 30%;
+     text-align: center;
+ }
+
+ #i1 {
+     color: aliceblue;
+     background-color: black;
+     margin-left: 15%;
+ }
+
+ #i2 {
+     color: aliceblue;
+     background-color: black;
+ }
